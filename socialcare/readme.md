@@ -13,7 +13,7 @@ This brought up some interesting results: for example, Derbyshire County Council
 
 # <a href="https://public.tableau.com/views/CCQCareHomeRatings/CCQData?:embed=y&:display_count=yes&publish=yes">Our interactive tool</a>
 
-Using ,a href="htps://public.tableau.com">Tableau</a>, we built an interactive tool, so people can search for a care provider they have a particular interest in, for example.
+Using <a href="https://public.tableau.com">Tableau</a>, we built an interactive tool, so people can search for a care provider they have a particular interest in, for example.
 
 It can filter by region, so you can see how the big care home companies in your area are performing.
 
@@ -23,7 +23,7 @@ It can also focus on one particular 'key question'. This way, we can take a look
 
 <a href="https://github.com/ClaireWilde/hackday-2017/blob/master/socialcare/CCQ%20Providers.xlsx">December 2017 CQC care home inspection results</a>
 
-# The team:
+# The team
 
 Our team was made up of: Victoria Oliveres, Harriet McCay, Chris Love, Alex Homer, Allie Short, Claire Wilde, Grace Wong and Ted Ryan.
 
