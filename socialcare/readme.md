@@ -25,7 +25,7 @@ It can also focus on one particular 'key question'. This way, we can take a look
 
 # The team
 
-Our team was made up of: Victoria Oliveres, Harriet McCay, Chris Love, Alex Homer, Allie Short, Claire Wilde, Grace Wong and Ted Ryan.
+Our team was made up of: Victòria Oliveres, Harriet McCay, Chris Love, Alex Homer, Allie Short, Claire Wilde, Grace Wong and Ted Ryan.
 
 
 
